@@ -1,23 +1,21 @@
-<h1 align="center">Admin Api</h1>
+<h1 align="center">Inventory Api</h1>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-usage">Usage</a>
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>
 </p>
 
 ## Project
 
-AdminApp is a project that CRUD operations simulate inventory operations for admin usage.
+Project with CRUD operations that simulates inventory operations.
 
 ## Technologies
 
 The project was developed with the following technologies:
 
 - [Elixir](https://github.com/elixir-lang/elixir)
-- [Phoenix](https://github.com/phoenixframework/phoenix)
 - [Ecto](https://github.com/elixir-ecto/ecto)
-- [ExUnit](https://github.com/elixir-lang/elixir/blob/master/lib/ex_unit/lib/ex_unit.ex)
 
 ## Prerequisites
 
