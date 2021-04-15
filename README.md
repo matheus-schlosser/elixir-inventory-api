@@ -23,7 +23,7 @@ You will need a instance of PostgresSQL (local, remote or using container throug
 
 ## Usage
 
-- Clone the repository with `git clone https://github.com/matheus-schlosser/elixir-admin-api.git`
+- Clone the repository with `git clone https://github.com/matheus-schlosser/elixir-inventory-api.git`
 - Acess the repository with admin-api `cd elixir-admin-api`
 - Install dependencies with `mix deps.get`
 - Edit the config dev.exs and test.exs file to point to the Postgres instance 
